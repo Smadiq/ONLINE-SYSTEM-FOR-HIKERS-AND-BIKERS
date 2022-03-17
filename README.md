@@ -1,2 +1,2 @@
 # ONLINE-SYSTEM-FOR-HIKERS-AND-BIKERS
-Online System For Hikers And Bikers
+This is an online system that lets you hire bike or boots for hiking
